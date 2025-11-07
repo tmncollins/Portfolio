@@ -23,7 +23,7 @@ repository               : "tmncollins/Portfolio"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg"
+  avatar           : "profile_red.jpeg"
   name             : "Toby Collins"
   pronouns         : # example: "she/her"  
   bio              : "Chemistry | Programming | Machine Learning"
